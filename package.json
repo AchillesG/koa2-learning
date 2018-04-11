@@ -1,0 +1,11 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "koa2 learning",
+  "main": "index.js",
+  "author": "Achilles Troy",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
